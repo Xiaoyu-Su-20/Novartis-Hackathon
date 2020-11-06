@@ -17,3 +17,5 @@ PX: The procedure information of patients.
 RX: The prescription (e.g drugs) information of patients.
 
 Drug_ReferenceReference: Map drug_id to drug_names.
+
+![](Novartis-Hackathon/pictures/breast_cancer_description.PNG)<!-- -->
